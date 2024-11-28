@@ -12,4 +12,4 @@ Jika Anda ingin berkontribusi atau mengajukan perubahan, kami akan sangat mengha
 
 Terima kasih telah menggunakan proyek ini! Semoga bermanfaat.
 
-https://dzarghifer.github.io/Diagnostik-Edukasi-Gizi/
+https://bit.ly/Diagnostik-dan-Edukasi-Gizi
